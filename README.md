@@ -1,6 +1,6 @@
 #!/usr/local/bin/bash
 
-# CoNVex is an R package, developed with some unconventional methods to be used in for large-scale linux clusters with large number of patient samples (genomic data)
+# CoNVex is an R package, developed with some unconventional methods for its use in large-scale linux clusters with large number of patient samples (genomic data)
 
 # Execute following commands in Unix to idownload, build and install CoNVex as an R package 
 
