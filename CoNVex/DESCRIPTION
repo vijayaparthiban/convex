@@ -1,0 +1,13 @@
+Package: CoNVex
+Type: Package
+Title: CNV detection from exomes
+Version: 0.6
+Date: 2013.09.23
+Author: Parthiban Vijayarangakannan. 
+Maintainer: <pv1@sanger.ac.uk>
+Depends: mgcv
+Description: CNV detection from exome data
+License: GPL v2 or Apache v2
+Repository: CRAN
+Date/Publication: 2011-03-17 05:44:51
+Packaged: 2013-09-29 00:45:58 UTC; pv1

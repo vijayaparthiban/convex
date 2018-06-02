@@ -1,0 +1,6 @@
+sample_id	bamfiles	gender
+UK10K_00000	/path/to/bam/files/UK10K_00000.bam	M
+UK10K_11111	/path/to/bam/files/UK10K_11111.bam	F
+UK10K_22222	/path/to/bam/files/UK10K_22222.bam	M
+UK10K_33333	/path/to/bam/files/UK10K_33333.bam	M
+UK10K_44444	/path/to/bam/files/UK10K_44444.bam	F
